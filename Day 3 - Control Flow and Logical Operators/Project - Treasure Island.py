@@ -1,4 +1,4 @@
-# Please refer to the Requirements/Day 3 - Project Flow chart
+# Please refer to the Requirements/Day 3 - Control Flow and Logical Operators - Project Flow chart
 
 print('''
 *******************************************************************************
