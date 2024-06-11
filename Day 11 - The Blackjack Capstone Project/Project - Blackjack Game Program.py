@@ -112,12 +112,12 @@ def play_game():
         user_cards.append(deal_card())
         computer_cards.append(deal_card())
 
-    # Hint 11: The score will need to be rechecked with every new card drawn and the checks in Hint 9 need to be repeated
-    # until the game ends.
+    # Hint 11: The score will need to be rechecked with every new card drawn and the checks in Hint 9 need to be
+    # repeated until the game ends.
 
     while not is_game_over:
-        # Hint 9: Call calculate_score(). If the computer or the user has a blackjack (0) or if the user's score is over 21,
-        # then the game ends.
+        # Hint 9: Call calculate_score(). If the computer or the user has a blackjack (0) or if the user's score is
+        # over 21, then the game ends.
 
         user_score = calculate_score(user_cards)
         computer_score = calculate_score(computer_cards)
