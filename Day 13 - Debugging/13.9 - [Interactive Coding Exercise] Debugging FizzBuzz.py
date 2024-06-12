@@ -1,5 +1,5 @@
 # Instructions
-# Read this the code in main.py
+# Read this the code in 16.2 - How to Add Python Packages and use PyPi.py
 # Spot the problems 🐞.
 # Modify the code to fix the program.
 # No shortcuts - don't copy-paste to replace the code entirely with a working solution.
